@@ -1,0 +1,24 @@
+.sum{
+    color: rgb(41, 209, 77);
+    
+    text-align: center;
+   
+   
+}
+/*
+import Expenseitem  from './components/Expenseitem'
+<Expenseitem pric={expensearray[0].price} mydate={expensearray[0].date} details={expensearray[0].info}  ></Expenseitem>
+<Expenseitem pric={expensearray[1].price} mydate={expensearray[1].date} details={expensearray[1].info}  ></Expenseitem>
+<Expenseitem pric={expensearray[2].price} mydate={expensearray[2].date} details={expensearray[2].info}  ></Expenseitem>
+<Expenseitem pric={expensearray[3].price} mydate={expensearray[3].date} details={expensearray[3].info}  ></Expenseitem>*/
+
+
+/*<Expenseitem pric={expensearray[0].price} mydate={expensearray[0].date} details={expensearray[0].info}  ></Expenseitem>
+<Expenseitem pric={expensearray[1].price} mydate={expensearray[1].date} details={expensearray[1].info}  ></Expenseitem>
+<Expenseitem pric={expensearray[2].price} mydate={expensearray[2].date} details={expensearray[2].info}  ></Expenseitem>
+<Expenseitem pric={expensearray[3].price} mydate={expensearray[3].date} details={expensearray[3].info}  ></Expenseitem>
+
+
+ expensearray.push(details_newexpenseto_app);
+    
+    return(expensearray);*/

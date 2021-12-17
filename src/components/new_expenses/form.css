@@ -1,0 +1,38 @@
+.newexpense_control label{
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+.newexpense_control input{
+    margin: 1rem;
+    font:inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border:1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+    
+}
+
+.newexpense_actions{
+    text-align: right;
+}
+.btn{
+    font:inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border:1px solid #40005d;
+    background-color:#40005d ;
+
+}
+
+.btn:hover,
+.btn:active{
+    background-color: #510674;
+    border-color: #510674;
+}
+.btn.alternative{
+    color:#220131;
+    border-color: transparent;
+    background-color: transparent;
+}
